@@ -4,10 +4,12 @@
 
 
 
-![](https://www.linkedin.com/in/angela-macias-170519117/overlay/background-image/)
+![]![Banner de LinkedIn Tecnología Rosa y Melocotón](https://github.com/user-attachments/assets/cfcf0033-408c-4148-8cfc-e2b4784c1c3a)
 
 
-<div id="header" align="center">
+
+<div id="header" align="center">![Uploading Banner de LinkedIn Tecnología Rosa y Melocotón.png…]()
+
   
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angela-macias-170519117/)
 
